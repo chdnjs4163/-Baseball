@@ -1,0 +1,8 @@
+# 1. train, val, test 폴더의 '절대 경로'를 v4로 적어줍니다.
+train: C:\Users\AISW-509-182\Desktop\ball.v4i.yolov8\train\images
+val: C:\Users\AISW-509-182\Desktop\ball.v4i.yolov8\valid\images
+test: C:\Users\AISW-509-182\Desktop\ball.v4i.yolov8\test\images
+
+# 2. 클래스 정보
+nc: 1
+names: ['ball']
